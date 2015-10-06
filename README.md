@@ -12,6 +12,8 @@ Initiation à GitHub Gipad, GSI demain et aujourd'hui pour toujours et à jamais
 #Création de la branche de Sonia, commit 1
 #Création de la branche de Sonia, commit 2
 
+#Interactive rebase sonia, 1
+
 # modif Baptiste
 
 
