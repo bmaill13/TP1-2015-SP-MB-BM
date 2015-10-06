@@ -1,5 +1,5 @@
 # TP1-2015-SP-MB-BM
-Initiation à GitHub Gipad, GSI demain et aujourd'hui
+Initiation à GitHub Gipad, GSI demain et aujourd'hui pour toujour
 
 # modif Melyna
 
