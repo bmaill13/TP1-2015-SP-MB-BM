@@ -9,7 +9,8 @@ Initiation à GitHub
 # modif Baptiste
 
 
-#commit1
+#commit1 Baptiste
+#commit2 Baptiste
 
 # surmodif Mel
 
