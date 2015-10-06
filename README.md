@@ -1,5 +1,5 @@
-# TP1-2015-SP-MB-BM
-Initiation à GitHub
+﻿# TP1-2015-SP-MB-BM
+Initiation à GitHub GSI GIPAD
 
 # modif Melyna
 
