@@ -14,6 +14,7 @@ Initiation à GitHub Gipad, GSI demain et aujourd'hui pour toujours et à jamais
 
 #Interactive rebase sonia, 1
 #Interactive rebase sonia, 2
+#Interactive rebase sonia, 3
 
 # modif Baptiste
 
