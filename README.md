@@ -21,3 +21,5 @@ Initiation à GitHub Gipad, GSI demain et aujourd'hui pour toujours et à jamais
 # surmodif Mel
 #commit1
 #2eme commit
+
+#add 1 avant reset
